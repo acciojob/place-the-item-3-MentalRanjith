@@ -1,5 +1,9 @@
 .holder {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    display: flex;           
+    flex-wrap: wrap;        
+    justify-content: space-around;  
+	border:1px solid blue;
+}
+.item{
+	border:2px solid blue;
 }
